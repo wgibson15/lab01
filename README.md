@@ -93,6 +93,7 @@ some simple math problems.
 
 Add the following to your code (punctuation is very important):
 ```
+/* This section computes a sum. */
 int x, y, z;
 x = 10;
 y = 20;
@@ -112,6 +113,7 @@ Now modify your program so it solves another math problem (without
 deleting anything in the previous sections). Create three variables to
 represent the height, width, and depth of a box. Write an expression
 to compute the volume of the box and print out the height, width,
-depth, and volume.
-
+depth, and volume. Assume the height is 11, the depth is 14, and the
+width is 7. Add a comment to describe what this section of your
+code is doing.
 
