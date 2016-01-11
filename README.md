@@ -1,5 +1,6 @@
 # Introduction
 Assigned: 2016-01-11
+
 Due: 2016-01-18
 
 This is the Lab 1 assignment for ECE 1120 - C Programming for ECE.
