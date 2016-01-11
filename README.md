@@ -5,8 +5,6 @@ Due: 2016-01-18
 
 This is the Lab 1 assignment for ECE 1120 - C Programming for ECE.
 
-# Objectives
-
 The goals of this lab are to introduce you to the Cloud9 development
 environment, and the GitHub software hosting repository and use these
 tools to build and run a simple C program.
