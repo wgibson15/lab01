@@ -91,7 +91,7 @@ written by Random A. Student
 After your program prints your name, you'll write some code to compute
 some simple math problems.
 
-Add the following to your code:
+Add the following to your code (punctuation is very important):
 ```
 int x, y, z;
 x = 10;
