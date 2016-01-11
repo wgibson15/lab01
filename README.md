@@ -74,15 +74,44 @@ randomstudent@work:~/workspace $ ./hello
 Hello world!
 ```
 
-## Edit the lab 1 assignment.
+## Edit the lab 1 assignment to print your name.
 From the Cloud9 workspace menu on the left, navigate to hello.c source
 file. First, modify the comment to have your own name. Next, figure
 out how to add another print statement to your program so that it
-prints your name when it runs, for example:
+prints your name when it runs (on its own line), for example:
 
 ```
 Hello world!
 written by Random A. Student
 
 ```
+
+## Edit the program to compute a simple math problem.
+
+After your program prints your name, you'll write some code to compute
+some simple math problems.
+
+Add the following to your code:
+```
+int x, y, z;
+x = 10;
+y = 20;
+z = x + y;
+printf("x is %d, y is %d, and z is %d\n", x, y, z);
+```
+
+This code tells the computer to create three variables to hold
+integers. Then it sets the value of two of them to 10 and 20, and
+computes their sum and puts it into the third variable.
+
+Finally, it prints out all three of them.
+
+## Add another simple math problem to your program.
+
+Now modify your program so it solves another math problem (without
+deleting anything in the previous sections). Create three variables to
+represent the height, width, and depth of a box. Write an expression
+to compute the volume of the box and print out the height, width,
+depth, and volume.
+
 
